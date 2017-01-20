@@ -1,0 +1,51 @@
+p {
+	font-family: Garamond;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	/*color: #1099B2;*/
+	font-size: 3.2em;
+}
+
+#container {
+	margin: auto;
+}
+#first-letter {
+	color: #cc0000;
+	font-size: 24px;
+}
+
+.caption {
+	text-align: right;
+}
+
+.term {
+	color: blue;
+/*	font-style: italic;*/
+}
+
+h3 {
+	font-family: cursive;
+	font-size: 26px;
+}
+
+h4 {
+	font-family: 'Julius Sans One', sans-serif;
+	font-weight: normal;
+}
+
+.gallery {
+	padding: 10px;
+}
+
+footer p {
+	display: inline-block;
+	padding: 1.25em;
+}
+
+footer {
+	text-align: center;
+}
